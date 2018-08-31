@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #efefef;
+  font-family: arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+main{
+  background-color: white;
+  max-width: 600px;
+  margin: 3em auto 1em;
+  padding: 1em 2em;
+  border-radius: 5px;
+}
+h1, h2, h3, h4, h5, h6{
+  color: #619ec5;
+}
+p{
+  line-height: 1.5;
+  margin-bottom: 2em;
+}
+li{
+  line-height: 1.5;
+}
+a{
+  color: #7ecdff;
+  text-decoration: none;
+}
